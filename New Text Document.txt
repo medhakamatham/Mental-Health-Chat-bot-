@@ -1,0 +1,6 @@
+Mental Health Support Chatbot
+-------------------------------------------------------------
+Software Used: Python IDLE
+Language Used : Python
+
+Install Python 3.11.3
